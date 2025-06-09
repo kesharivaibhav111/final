@@ -12,6 +12,7 @@ class a {
         a A = new a();
         A.setNum(5);
         System.out.println(A.getNum());
+        System.out.println(A.getNum());
 
     }
 
